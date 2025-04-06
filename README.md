@@ -42,6 +42,3 @@ pip install -r requirements.txt
 
 # 🔮 Goal
 - To create a reliable system that can classify emotional states based on real-time brainwave data, potentially useful for mental health monitoring, gaming, meditation apps, and adaptive human-computer interaction.
-
-# 🤝 Contributing
-- Pull requests are welcome! Feel free to open an issue if you find a bug or want to suggest an improvement.
