@@ -6,7 +6,7 @@ This project aims to detect human emotions by analyzing EEG (Electroencephalogra
 - emotions.csv # Labeled emotion dataset 
 - README.md # Project documentation 
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 ### 1. Clone the Repository
 
@@ -20,12 +20,6 @@ We recommend using a virtual environment.
 ```
 pip install -r requirements.txt
 ```
-### Typical packages used:
-
-- pandas
-- numpy
-- scikit-learn
-- matplotlib / seaborn
 
 # 🧠 Dataset Overview
 - EEG Data: Collected using brainwave sensors. Contains numerical values representing brain activity from different electrodes.
