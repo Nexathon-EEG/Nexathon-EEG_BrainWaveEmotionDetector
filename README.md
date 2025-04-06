@@ -3,12 +3,12 @@
 This project aims to detect human emotions by analyzing EEG (Electroencephalogram) signals using machine learning techniques. We combine EEG brainwave data with labeled emotional states to build a robust model capable of identifying emotions such as happy, sad, angry, relaxed, and more.
 
 ## 📁 Project Structure
-├── EEG.machinelearning_data_BRMH.csv # EEG dataset<br/>
-├── emotions.csv # Labeled emotion dataset <br/>
-├── merged_dataset.csv # Preprocessed/combined dataset <br/>
-├── model_training.ipynb # Jupyter Notebook for model training <br/>
-├── utils.py # Helper functions <br/>
-├── README.md # Project documentation <br/>
+- EEG.machinelearning_data_BRMH.csv # EEG dataset<br/>
+- emotions.csv # Labeled emotion dataset 
+- merged_dataset.csv # Preprocessed/combined dataset 
+- model_training.ipynb # Jupyter Notebook for model training 
+- utils.py # Helper functions 
+- README.md # Project documentation 
 
 ## 🚀 Getting Started
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - Emotion Labels: A separate dataset categorizing emotional states associated with the EEG readings.
 
 # 📊 Models & Techniques
-- Preprocessing: Normalization, feature selection
+- Preprocessing: Normalization, feature selection,fast fourier transform.
 - Algorithms: Random Forest, SVM, Logistic Regression, or Neural Networks
 - Evaluation: Accuracy, confusion matrix, cross-validation
 
