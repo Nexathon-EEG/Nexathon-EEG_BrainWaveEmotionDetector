@@ -3,8 +3,8 @@
 This project aims to detect human emotions by analyzing EEG (Electroencephalogram) signals using machine learning techniques. We combine EEG brainwave data with labeled emotional states to build a robust model capable of identifying emotions such as happy, sad, angry, relaxed, and more.
 
 # 📁 Project Structure
-- emotions.csv # Labeled emotion dataset 
-- README.md # Project documentation 
+- emotions.csv **Labeled emotion dataset **
+- README.md **Project documentation **
 
 # 🚀 Getting Started
 
