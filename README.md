@@ -2,7 +2,7 @@
 
 This project aims to detect human emotions by analyzing EEG (Electroencephalogram) signals using machine learning techniques. We combine EEG brainwave data with labeled emotional states to build a robust model capable of identifying emotions such as happy, sad, angry, relaxed, and more.
 
-## 📁 Project Structure
+# 📁 Project Structure
 - emotions.csv # Labeled emotion dataset 
 - README.md # Project documentation 
 
@@ -14,7 +14,7 @@ This project aims to detect human emotions by analyzing EEG (Electroencephalogra
 https://github.com/Nexathon-EEG/Nexathon-EEG_BrainWaveEmotionDetector.git
 cd emotion-eeg-detector
 ```
-## 2. Install Dependencies
+### 2. Install Dependencies
 We recommend using a virtual environment.
 
 ```
