@@ -11,7 +11,7 @@ This project aims to detect human emotions by analyzing EEG (Electroencephalogra
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/emotion-eeg-detector.git
+https://github.com/Nexathon-EEG/Nexathon-EEG_BrainWaveEmotionDetector.git
 cd emotion-eeg-detector
 ```
 ## 2. Install Dependencies
