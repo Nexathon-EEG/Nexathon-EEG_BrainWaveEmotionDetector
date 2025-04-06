@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 # 📊 Models & Techniques
 - Preprocessing: Normalization, feature selection,fast fourier transform.
-- Algorithms: Random Forest, SVM, Logistic Regression, or Neural Networks
+- Algorithms: GaussianNB, SVC, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier
 - Evaluation: Accuracy, confusion matrix, cross-validation
 
 # 🔮 Goal
