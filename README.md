@@ -30,3 +30,18 @@ pip install -r requirements.txt
 - numpy
 - scikit-learn
 - matplotlib / seaborn
+
+# 🧠 Dataset Overview
+- EEG Data: Collected using brainwave sensors. Contains numerical values representing brain activity from different electrodes.
+- Emotion Labels: A separate dataset categorizing emotional states associated with the EEG readings.
+
+# 📊 Models & Techniques
+- Preprocessing: Normalization, feature selection
+- Algorithms: Random Forest, SVM, Logistic Regression, or Neural Networks
+- Evaluation: Accuracy, confusion matrix, cross-validation
+
+# 🔮 Goal
+- To create a reliable system that can classify emotional states based on real-time brainwave data, potentially useful for mental health monitoring, gaming, meditation apps, and adaptive human-computer interaction.
+
+# 🤝 Contributing
+- Pull requests are welcome! Feel free to open an issue if you find a bug or want to suggest an improvement.
